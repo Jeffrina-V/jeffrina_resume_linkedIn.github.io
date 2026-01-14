@@ -49,7 +49,7 @@
 
 <body>
   <div class="box">
-    <h2>Jeffrey Navid</h2>
+    <h2>Jeffrina V</h2>
 
     <a href="https://www.linkedin.com/in/jeffrina-v-39a0aa354" target="_blank">
       LinkedIn Profile
